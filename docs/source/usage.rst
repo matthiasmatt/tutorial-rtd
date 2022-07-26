@@ -6,13 +6,14 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+Requires Python 3.7+
+To use nibiru-py, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install nibiru-py
 
-Creating recipes
+Usage
 ----------------
 
 To retrieve a list of random ingredients,
